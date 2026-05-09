@@ -1,6 +1,6 @@
 # Toxic or Just Tilted? — Auditing and Improving Toxicity Classifiers for In-Game MOBA Chat
 
-GenEd1187 final project. We audit two standard approaches to in-game toxicity moderation, demonstrate three systematic failure modes (cross-domain transfer, adversarial obfuscation, identity bias), then build an improved classifier and a player-level reputation system. Full report in [`report/REPORT.md`](report/REPORT.md).
+GenEd1187 final project. We audit two standard approaches to in-game toxicity moderation, demonstrate three systematic failure modes (cross-domain transfer, adversarial obfuscation, identity bias), then build an improved classifier and a player-level reputation system. 
 
 ## Quick start
 
