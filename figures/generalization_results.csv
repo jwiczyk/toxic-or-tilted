@@ -1,0 +1,49 @@
+word,obfuscated,technique,B_raw,B_normalized,C
+trash,trash,canonical,1,1,1
+trash,t r a s h,spacing,0,1,1
+trash,tr4$h,leet,0,1,1
+trash,trashhhhh,repeat,0,0,0
+trash,t.r.a.s.h,symbols,0,1,1
+trash,t r 4 $ h,combined,0,1,1
+noob,noob,canonical,1,1,1
+noob,n o o b,spacing,0,1,1
+noob,n00b,leet,0,1,1
+noob,noobbbbb,repeat,0,0,0
+noob,n.o.o.b,symbols,0,1,1
+noob,n 0 0 b,combined,0,1,1
+idiot,idiot,canonical,1,1,1
+idiot,i d i o t,spacing,0,1,1
+idiot,1d10t,leet,0,1,1
+idiot,idiottttt,repeat,0,0,0
+idiot,i.d.i.o.t,symbols,0,1,1
+idiot,1 d 1 0 t,combined,0,1,1
+stupid,stupid,canonical,1,1,1
+stupid,s t u p i d,spacing,0,1,1
+stupid,$tup1d,leet,0,1,1
+stupid,stupiddddd,repeat,0,0,0
+stupid,s.t.u.p.i.d,symbols,0,1,1
+stupid,$ t u p 1 d,combined,0,0,0
+garbage,garbage,canonical,1,1,1
+garbage,g a r b a g e,spacing,0,1,1
+garbage,g4rb4g3,leet,0,1,1
+garbage,garbageeeee,repeat,0,0,0
+garbage,g.a.r.b.a.g.e,symbols,0,1,1
+garbage,g 4 r b 4 g 3,combined,0,1,1
+feeder,feeder,canonical,1,1,1
+feeder,f e e d e r,spacing,0,1,1
+feeder,f33d3r,leet,0,1,1
+feeder,feederrrrr,repeat,0,0,0
+feeder,f.e.e.d.e.r,symbols,0,1,1
+feeder,f 3 3 d 3 r,combined,0,1,1
+useless,useless,canonical,1,1,1
+useless,u s e l e s s,spacing,0,1,1
+useless,u$3l3$$,leet,0,1,1
+useless,uselessssss,repeat,0,1,1
+useless,u.s.e.l.e.s.s,symbols,0,1,1
+useless,u $ 3 l 3 $ $,combined,0,1,1
+loser,loser,canonical,1,1,1
+loser,l o s e r,spacing,0,1,1
+loser,l0$3r,leet,0,1,1
+loser,loserrrrr,repeat,0,0,0
+loser,l.o.s.e.r,symbols,0,1,1
+loser,l 0 $ 3 r,combined,0,1,1

@@ -1,0 +1,10 @@
+model,probe_set,n,detection_rate_on_toxic,false_positive_rate_on_clean
+Model A,identity,16,,0.125
+Model B,identity,16,,0.3125
+Model C,identity,16,,0.5
+Model A,banter,14,,0.0
+Model B,banter,14,,0.42857142857142855
+Model C,banter,14,,0.35714285714285715
+Model A,genuine_toxic,8,0.125,
+Model B,genuine_toxic,8,0.25,
+Model C,genuine_toxic,8,0.5,
